@@ -1,0 +1,49 @@
+# Core Libraries
+numpy==1.24.4                   # Required by pyfume
+pandas==1.5.3                   # Required by pyfume
+fsspec==2023.4.0                # Required by s3fs
+requests==2.31.0                # Required by conda-repo-cli
+PyYAML==6.0.1                   # Required by conda-repo-cli
+clyent==1.2.1                   # Required by conda-repo-cli
+
+# PyTorch and related libraries
+torch==2.0.1                    # PyTorch deep learning framework
+torchvision==0.15.2             # PyTorch vision library
+torchaudio==2.0.1               # PyTorch audio library
+torchtext==0.15.2               # PyTorch text library
+
+# Computer Vision
+opencv-python==4.8.0.74         # OpenCV for computer vision tasks
+Pillow==9.5.0                   # Python Imaging Library for image processing
+imageio==2.31.0                 # Image I/O library
+albumentations==1.3.1           # Data augmentation library for computer vision
+
+# Deep Learning and Machine Learning
+scikit-learn==1.3.0             # Machine learning library
+scikit-image==0.21.0            # Image processing library
+keras==2.12.0                   # Deep learning API for TensorFlow
+transformers==4.31.0            # Hugging Face Transformers for NLP
+onnxruntime==1.15.1             # ONNX runtime for machine learning model inference
+
+# Data Science Tools
+matplotlib==3.7.1               # Visualization library
+datasets==2.14.5                # Hugging Face Datasets library
+tiktoken==0.4.0                 # Fast tokenization library
+tqdm==4.65.0                    # Progress bar library
+librosa==0.10.0.post2           # Audio analysis library
+
+# Jupyter and Development Tools
+jupyter==1.0.0                  # Jupyter notebook interface
+
+# Other Libraries
+pytesseract==0.3.10             # Tesseract OCR tool
+wandb==0.15.5                   # Weights & Biases for experiment tracking
+regex==2023.6.3                 # Regular expression library
+sounddevice==0.4.6              # Library for audio input/output
+gdown==4.7.1                    # Google Drive downloader
+gallery-dl==1.23.0              # Image downloading library
+ultralytics==8.0.129            # Ultralytics YOLOv8 for object detection
+
+# System Build Tools
+cmake==3.27.0                   # Build tool required for some packages (e.g., dlib)
+dlib==19.24.1                   # Dlib library for machine learning and computer vision
