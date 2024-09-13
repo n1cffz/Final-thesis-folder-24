@@ -1,0 +1,9 @@
+# dataset.yaml
+train: /Users/nixi/Desktop/Final-thesis-folder-24/AI-for-Media-project-23-24/yolo_dataset/images/train
+val: /Users/nixi/Desktop/Final-thesis-folder-24/AI-for-Media-project-23-24/yolo_dataset/images/val
+
+# number of classes
+nc: 4
+
+# class names
+names: ['angry-face', 'happy-face', 'neutral-face', 'sad-face']
