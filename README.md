@@ -1,7 +1,7 @@
 # Real-Time Emotion-Driven Music Generation System
  
  
-This repository contains the code and resources in completion of works towards MSc for Data Science and AI aimed at developing a real-time system that dynamically generates and manipulates musical elements based on facial expression analysis. The system utilizes advanced computer vision techniques, including Convolutional Neural Networks (CNNs), YOLOv5, and Random Forest models to classify four specific emotional states: sadness, happiness, anger, and neutrality. It also generates corresponding music based on these emotional states to create personalized, emotion-driven musical experiences. The goal is to explore the impact of AI and data science on emotional experience through music, with potential applications in therapy, gaming, and immersive experiences.
+This repository contains the code and resources in completion of works towards MSc for Data Science and AI aimed at developing a real-time system that dynamically generates and manipulates musical elements based on facial expression analysis. The system utilizes advanced computer vision techniques, including Convolutional Neural Networks (CNNs), and Random Forest models to classify four specific emotional states: sadness, happiness, anger, and neutrality. It also generates corresponding music based on these emotional states to create personalized, emotion-driven musical experiences. The goal is to explore the impact of AI and data science on emotional experience through music, with potential applications in therapy, gaming, and immersive experiences.
 
 
 The system employs several machine learning techniques for emotion recognition and music generation:
